@@ -10,7 +10,7 @@ Projeto Integrador **Vocantis** <br>
 
 ●	Hugo Gustavo Martins da Silva: https://github.com/hugogms
 
-●	Johnny da Silva Franco de Lima
+●	Johnny da Silva Franco de Lima: https://github.com/JohnnyPlus08
 
 ●	Luiz Felipe Silva Grava: https://github.com/LuizFGrava
 
