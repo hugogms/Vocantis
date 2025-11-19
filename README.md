@@ -5,31 +5,32 @@ Projeto Integrador **Vocantis** <br>
 <br>
 <br>
 
-## Nomes dos Integrantes:
-●	Alex dos Santos Sousa: https://github.com/Alex19fatec/Vocantis
+## 👨🏽‍💻 Nomes dos Integrantes:
+-	Alex dos Santos Sousa: https://github.com/Alex19fatec/Vocantis
 
-●	Hugo Gustavo Martins da Silva: https://github.com/hugogms
+-	Hugo Gustavo Martins da Silva: https://github.com/hugogms
 
-●	Johnny da Silva Franco de Lima: https://github.com/JohnnyPlus08
+-	Johnny da Silva Franco de Lima: https://github.com/JohnnyPlus08
 
-●	Luiz Felipe Silva Grava: https://github.com/LuizFGrava
+-	Luiz Felipe Silva Grava: https://github.com/LuizFGrava
 
-●	Maciel dos Santos: https://github.com/macielmax/Vocantis
+-	Maciel dos Santos: https://github.com/macielmax/Vocantis
 
-●	Marcos Vinicius da Silva Rocha: https://github.com/MarcosRocha1
+-	Marcos Vinicius da Silva Rocha: https://github.com/MarcosRocha1
 
-●	Pedro Henrique Oliveira Silva (líder): https://github.com/PedHenSilva/Vocantis
-<br>
-## Professores Orientadores:
-●	PhD - Bruno Zolotareff dos Santos | Disciplina: Desenvolvimento Web 1
-
-● Lucio Nunes de Lira | Disciplina: Engenharia de Software 1
-
-● Patricia Gallo de França | Disciplina: Design Digital
+-	Pedro Henrique Oliveira Silva (líder): https://github.com/PedHenSilva/Vocantis
 <br>
 
-## Descrição do Projeto
-**O Vocantis** é uma plataforma de orientação vocacional digital, 
+## 👨🏻‍🏫 Professores Orientadores:
+-	PhD - Bruno Zolotareff dos Santos | Disciplina: Desenvolvimento Web 1
+
+- Lucio Nunes de Lira | Disciplina: Engenharia de Software 1
+
+- Patricia Gallo de França | Disciplina: Design Digital
+<br>
+
+## 🎯 Descrição do Projeto
+> **O Vocantis** é uma plataforma de orientação vocacional digital, 
 criada para aproximar pessoas do ensino técnico e superior
 público, através da tecnologia.
 Nosso objetivo é transformar dúvidas sobre carreira em decisões informadas e acessíveis.
@@ -37,7 +38,7 @@ Nosso objetivo é transformar dúvidas sobre carreira em decisões informadas e 
 Para acessar o projeto online clique [AQUI](https://pedhensilva.github.io/Vocantis/)
 <br>
 
-## Tecnologias Utilizadas! </h2>
+## ⛭ Tecnologias Utilizadas! </h2>
 <div align="justify">
 <img width="80" height="80" alt="HTML (2)" src="https://github.com/user-attachments/assets/422e9d83-2fd7-4cf7-bacc-a9e4cd2663de" />  &nbsp; &nbsp; &nbsp; &nbsp;
 <img width="57" height="80" alt="CSS3_logo_and_wordmark svg (1) (1)" src="https://github.com/user-attachments/assets/dc249d2c-836a-4c16-95e2-383a4a52fbf4" /> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -57,29 +58,30 @@ Para acessar o projeto online clique [AQUI](https://pedhensilva.github.io/Vocant
 </div><br>
 
 
-● HTML5 - Estrutura de conteúdo do site
+- HTML5 - Estrutura de conteúdo e navegação do site
 
-● CSS3 - Folha de estillos para estilização do site
+- CSS3 - Folha de estillos para estilização do site
 
-● JavaScript - Interatividade e JSON para armazenamento de dados
+- JavaScript - Interatividade e JSON para armazenamento de dados
 
-● Bootstrap 5 - Framework para design e componentes responsivos
+- Bootstrap 5 - Framework para design e componentes responsivos
 
-● Figma - Prototipação do site
+- Figma - Prototipação do site
 
-● GitHub - Hospedagem
+- GitHub - Hospedagem
 
-● Google Drive - Compartilhar e organizar Documentações
+- Google Drive - Compartilhar e organizar Documentações
 
-● Vscode - Codificação do site
+- Vscode - Codificação do site
 
-## Futuras Melhorias  
-● Adicionar autenticação para que os usuários salvem seus resultados.
+## 🚀 Futuras Melhorias:
 
-● Integrar banco de dados para armazenar perfis e respostas.
+- Adicionar autenticação para que os usuários salvem seus resultados.
 
-● Implementar backend que permita expandir e atualizar os cursos do CPS.
+- Integrar banco de dados para armazenar perfis e respostas.
 
-● Oferecer gráficos de perfil e visualizações mais interativas.
+- Implementar backend que permita expandir e atualizar os cursos do CPS.
 
-● Gerar relatórios ou exportar resultado para PDF ou email.
+- Oferecer gráficos de perfil e visualizações mais interativas.
+
+- Gerar relatórios ou exportar resultado para PDF ou email.
