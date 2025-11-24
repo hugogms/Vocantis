@@ -8,15 +8,15 @@ Projeto Integrador **Vocantis** <br>
 ## 👨🏽‍💻 Nomes dos Integrantes:
 -	Alex dos Santos Sousa: https://github.com/Alex19fatec/Vocantis
 
--	Hugo Gustavo Martins da Silva: https://github.com/hugogms
+-	Hugo Gustavo Martins da Silva: https://github.com/hugogms/Vocantis
 
--	Johnny da Silva Franco de Lima: https://github.com/JohnnyPlus08
+-	Johnny da Silva Franco de Lima: https://github.com/JohnnyPlus08/Vocantis
 
 -	Luiz Felipe Silva Grava: https://github.com/LuizFGrava
 
 -	Maciel dos Santos: https://github.com/macielmax/Vocantis
 
--	Marcos Vinicius da Silva Rocha: https://github.com/MarcosRocha1
+-	Marcos Vinicius da Silva Rocha: https://github.com/MarcosRocha1/Vocantis
 
 -	Pedro Henrique Oliveira Silva (líder): https://github.com/PedHenSilva/Vocantis
 <br>
