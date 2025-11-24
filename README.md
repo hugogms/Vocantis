@@ -85,3 +85,6 @@ Para acessar o projeto online clique [AQUI](https://pedhensilva.github.io/Vocant
 - Oferecer gráficos de perfil e visualizações mais interativas.
 
 - Gerar relatórios ou exportar resultado para PDF ou email.
+
+## 📄 Documentação:
+[Documentação-P.I-PADRONIZADO.docx](https://github.com/user-attachments/files/23712750/modelo_22_10_PADRONIZADO.docx)
