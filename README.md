@@ -87,4 +87,4 @@ Para acessar o projeto online clique [AQUI](https://pedhensilva.github.io/Vocant
 - Gerar relatórios ou exportar resultado para PDF ou email.
 
 ## 📄 Documentação:
-[Documento_PI_Vocantis.docx](https://github.com/user-attachments/files/23751601/Documento_PI_Vocantis.docx)
+[Documento_PI_Vocantis_1.0.pdf](https://github.com/user-attachments/files/23863005/Documento_PI_Vocantis_1.0.pdf)
