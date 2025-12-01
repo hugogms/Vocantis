@@ -12,7 +12,7 @@ Projeto Integrador **Vocantis** <br>
 
 -	Johnny da Silva Franco de Lima: https://github.com/JohnnyPlus08/Vocantis
 
--	Luiz Felipe Silva Grava: https://github.com/LuizFGrava
+-	Luiz Felipe Silva Grava: https://github.com/LuizFGrava/Vocantis
 
 -	Maciel dos Santos: https://github.com/macielmax/Vocantis
 
